@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pixelzee3
 - 👀 I’m interested in Tesla and video games
-- 🌱 I’m currently learning front-end web development and Web 3.0.
+- 🌱 I’m currently learning front-end web development.
 - 📫 Reach me via Twitter DMs!
 
 <!---
